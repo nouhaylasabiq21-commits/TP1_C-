@@ -7,9 +7,8 @@ Ce projet contient les exercices du TP3 en C++.
 
 Voici les résultats d’exécution :
 
-![Exécution 1](screenshotstp1/exercice1.png)
-![Exécution 2](screenshotstp1/exercice2.png)
-
+![Exécution 1](screeshotstp1/exercice1.png)
+![Exécution 2](screeshotstp1/exercice2.png)
 ---
 
 ## ⚙️ Compilation
